@@ -1,2 +1,2 @@
 # Avoid-obstacle-game-
-A basic game usING Pygame in whichwe can move the flappy bird  left and right  to avoid collision with the blocks whose size keeps on changing . The speed of the block is increased  by a factor of 2 every time one avoids it .
+ Python-based interactive game featuring character movement control for left and right directions, allowing players to navigate and evade dynamically changing obstacle blocks. The game's challenge dynamically escalates as the speed of the blocks doubles with each successful evasion, providing an engaging and progressively challenging gaming experience.
